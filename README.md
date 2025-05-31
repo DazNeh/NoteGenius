@@ -29,6 +29,11 @@ git clone https://github.com/DazNeh/NoteGenius.git
 cd NoteGenius
 ```
 
+Download Ollama then run
+```bash
+Ollama pull mistral
+```
+
 2️⃣ **Setup the Backend**
 
 ```bash
